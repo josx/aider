@@ -127,7 +127,7 @@ python3 -m venv ../aider_venv \
 
 ### Running Tests
 
-Just run `pytest`.
+Just run `PYTHONPATH=. pytest`.
 
 ### Building the Docker Image
 
